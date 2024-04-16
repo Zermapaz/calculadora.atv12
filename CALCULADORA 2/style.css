@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#estrutura {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#calculadora {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#calculadora-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(148, 50, 50, 0.1);
+}
+
+input[type=number],
+select {
+    width: 100%;
+    margin-top: 5px;
+}
+
+button {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#result {
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+}
